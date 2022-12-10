@@ -20,7 +20,6 @@ body {
 	width:100%;
 }
 #bg {
-	display: table;
 	background-color:#fff;
 	height:400px;
 	width:256px;
